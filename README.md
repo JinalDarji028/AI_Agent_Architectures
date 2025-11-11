@@ -46,7 +46,7 @@ Language: Python 3.x
 
 Tools: Jupyter Notebook
 
-Libraries: NumPy, Matplotlib (if used for simulations)
+Libraries: NumPy, Matplotlib
 
 # 🎯 Learning Outcome
 
